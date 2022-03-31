@@ -123,7 +123,7 @@ contract RouterV2 {
     }
 
     function zooTradeSwapAddress() public pure returns (address) {
-        return 0x48b5865a35dA8fb51108032C97bc42b6EFB79661;
+        return 0x5D7A34a6ba9c33Ea8ED87f3dcF01D488C019F771;
     }
 
     function userAddress() public pure returns (address) {
